@@ -7,8 +7,8 @@ Feel free to reach out directly to Tobie Langel, Principal & Managing Partner, i
 
 ***
 
-# Tobie Langel
-## Principal & Managing Partner, UnlockOpen
+### Tobie Langel
+#### Principal & Managing Partner, UnlockOpen
 
 Tobie Langel is a world-leading expert on open source and standardization. He advises some of the biggest names in tech (Google, Microsoft, Mozilla, Intel, Cisco), promising startups (GitLab, Airtable, Coil), industry organizations (OpenJS Foundation, OASIS, W3C) and nonprofits (Organization for Ethical Source, Ushahidi, Omidyar Network), either _pro bono_ or through his consultancy, UnlockOpen.
 
