@@ -37,11 +37,11 @@ a:hover {
 }
 
 .content h5 {
-  @apply text-xl font-bold mt-10 mb-5;
+  @apply text-xl font-bold mt-10;
 }
 
 .content h6 {
-  @apply text-lg font-bold mt-10 mb-5;
+  @apply text-xl mb-5;
 }
 
 .content ul,
